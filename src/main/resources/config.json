@@ -1,0 +1,13 @@
+{
+  "http": {
+    "port": 8080
+  },
+  "db": {
+    "url": "jdbc:mysql://0.0.0.0:3309/dev",
+    "port": 3309,
+    "host": "0.0.0.0",
+    "db-name": "dev",
+    "user": "dev",
+    "password": "secret"
+  }
+}
