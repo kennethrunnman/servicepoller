@@ -2,9 +2,15 @@
 
 ## Instructions
 
+### Submodule
+To clone and include the submodule run:
+`git clone --recursive -j8 git@github.com:kennethrunnman/servicepoller.git` in your terminal
+
 ### Docker
 
 You need to have docker and docker-compose installed.
+
+Go back into root folder again.
 
 Start the MySQL server by running:
 `docker-compose up -d`
