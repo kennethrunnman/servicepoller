@@ -4,7 +4,8 @@
 
 ### Submodule
 To clone and include the submodule run:
-`git clone --recursive -j8 git@github.com:kennethrunnman/servicepoller.git` in your terminal
+
+`git clone --recursive -j8 git@github.com:kennethrunnman/servicepoller.git` 
 
 ### Docker
 
